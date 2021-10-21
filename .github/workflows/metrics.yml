@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: isometric-commits-calendar
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -21,7 +21,7 @@ jobs:
           plugin_isocalendar_duration: full-year # Display full year instead of half year
 
       - name: achievements
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -59,7 +59,7 @@ jobs:
       #     commits_authoring: ${{ secrets.AUTHOR_EMAILS }} # Surnames or email addresses used to identify your commits
 
       - name: coding-habits
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -75,7 +75,7 @@ jobs:
           config_timezone: Europe/Paris # Set timezone
 
       - name: reactions
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -90,7 +90,7 @@ jobs:
           plugin_reactions_ignored: bot # Ignore "bot" user
 
       - name: pull-requests
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -104,7 +104,7 @@ jobs:
           plugin_followup_sections: repositories
 
       - name: stats
-        uses: knutfr/metrics
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
