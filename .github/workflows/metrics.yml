@@ -19,7 +19,6 @@ jobs:
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
-          template: terminal
 
       - name: achievements
         uses: knutfr/metrics@master
@@ -37,7 +36,7 @@ jobs:
           plugin_achievements_display: compact # or detailed
 
       - name: most-used-language
-        uses: lowlighter/metrics@latest
+        uses: knutfr/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -111,7 +110,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: stats.svg
           user: knutfr
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_display: regular
           config_timezone: Europe/Paris
