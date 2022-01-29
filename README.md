@@ -17,15 +17,15 @@
 
 - 🌱 I’m currently learning **AWS Devops certification**
 
-- 👨‍💻 All of my projects are available at [https://knutech.io](https://knutech.io)
+- 👨‍💻 All of my projects are available at [https://knutech.io](https://knutech.fr)
 
-- 📝 I regularly write articles on [https://knutech.io/blog](https://knutech.io/blog)
+- 📝 I regularly write articles on [https://knutech.io/blog](https://knutech.fr/blog)
 
 - 💬 Ask me about **Ops/SRE/FinOps/Automation/Cloud Architecture**
 
 - 📫 How to reach me **adrien@knutech.fr**
 
-- 📄 Know about my experiences [https://knutech.io/resume](https://knutech.io/resume)
+- 📄 Know about my experiences [https://knutech.io/resume](https://knutech.fr/resume)
 
 <h3 align="left" style="text-shadow: black 0.1em 0.1em 0.2em;">Connect with me:</h3>
 <p align="left">
