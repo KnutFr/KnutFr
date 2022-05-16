@@ -15,7 +15,7 @@
 <h1 align="center" style="text-shadow: black 0.1em 0.1em 0.2em;"> About me </h1>
 - 🔭 I’m currently working at [Hublo](https://hublo.com/en)
 
-- 🌱 I’m currently learning **AWS Devops certification**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://knutech.io](https://knutech.fr)
 
