@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knutfr" alt="knutfr" /></a> </p>
 
 <h1 align="center" style="text-shadow: black 0.1em 0.1em 0.2em;"> About me </h1>
-- 🔭 I’m currently working at [Hublo](https://hublo.com/en)
+- 🔭 I’m currently working at [Payfit](https://payfit.com/)
 
 - 🌱 I’m currently learning **Golang**
 
